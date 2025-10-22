@@ -2,7 +2,7 @@
 
 **Problem.** Build fast, interpretable linear models for classification and compare training dynamics, regularization, and decision boundaries.
 
-**Data.** Tabular features with a binary or multiclass label (`data/raw/`).
+**Data.** Tabular features with a binary or multiclass label (`dataset/Movies Dataset.zip`).
 
 **Approach.**
 - Preprocessing: imputation (if needed) + **StandardScaler**.
